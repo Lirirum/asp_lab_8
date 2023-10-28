@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "Qe0VrYMH9e9BMbgq6DV4Bsr4iWB9IBeUYuooPcjNRaE=",
+  "Source": "WebApplication10",
+  "BasePath": "_content/WebApplication10",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApplication10\\wwwroot",
+      "Source": "WebApplication10",
+      "ContentRoot": "C:\\Users\\Lirirum\\source\\repos\\WebApplication10\\WebApplication10\\wwwroot\\",
+      "BasePath": "_content/WebApplication10",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Lirirum\\source\\repos\\WebApplication10\\WebApplication10\\wwwroot\\css\\style.css",
+      "SourceId": "WebApplication10",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Lirirum\\source\\repos\\WebApplication10\\WebApplication10\\wwwroot\\",
+      "BasePath": "_content/WebApplication10",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    }
+  ]
+}
